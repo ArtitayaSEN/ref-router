@@ -19,7 +19,7 @@ export function Layout() {
       >
         Main
       </NavLink>
-      <NavLink
+      <NavLink 
         to="/product"
         className="link px-2"
         style={({ isActive }) => {
